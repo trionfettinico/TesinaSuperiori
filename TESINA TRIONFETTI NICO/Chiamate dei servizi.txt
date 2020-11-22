@@ -1,0 +1,11 @@
+User :
+
+GET: http://localhost:8081/ASL/User/getAll
+
+POST: http://localhost:8081/ASL/User/insertUser/Utente=utente&Password=password&Tipo=tipo
+
+PUT: http://localhost:8081/ASL/User/updateUser/NUtente=esame&VUtente=utente&Password=esame&Tipo=esame
+
+DELETE: http://localhost:8081/ASL/User/deleteUser/Utente=esame
+
+
